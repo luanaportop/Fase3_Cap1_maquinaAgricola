@@ -29,3 +29,9 @@ Com esses dados, o ESP32 controla um relé (representando uma bomba de irrigaç�
 A lógica de irrigação foi definida pelo grupo e funciona da seguinte maneira:
 - Umidade abaixo de 30%: Irrigação ligada.
 - Botão de P ou K pressionado (indicando falta de nutrientes): Irrigação ligada.
+
+## Imagens do circuito
+![image](https://github.com/user-attachments/assets/3e70c754-bc6e-4956-9604-3a58894b19eb)
+![image](https://github.com/user-attachments/assets/f97a2b7f-f2fa-465c-8288-7a8903490d66)
+
+
