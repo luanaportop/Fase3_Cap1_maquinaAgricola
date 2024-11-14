@@ -1,5 +1,16 @@
 # Sistema de Irrigação Inteligente - FarmTech Solutions
 
+## Instruções para rodar código python:
+instalar a biblioteca oracledb
+instalar a biblioteca pandas
+importar biblioteca os
+
+Adicionar o usuário e senha na conexão do banco de dados.
+
+## Instruções para rodar código C++:
+instalar a biblioteca DHT sensor library
+instalar a biblioteca DHT22
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte do primeiro semestre da faculdade de IA, onde criamos um sistema de irrigação inteligente para a empresa FarmTech Solutions. Na terceira fase do projeto, usamos sensores e um microcontrolador para monitorar o solo e automatizar a irrigação de acordo com as condições atuais. Tudo isso foi feito em um ambiente de simulação, usando o Wokwi, uma plataforma online para testar o hardware.
 
